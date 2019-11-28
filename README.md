@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/magraham/Landing-Zone/_apis/build/status/fireblade95402.pipelines-java?branchName=master)](https://dev.azure.com/magraham/Landing-Zone/_build/latest?definitionId=24&branchName=master)
 
 # Contributing
 
